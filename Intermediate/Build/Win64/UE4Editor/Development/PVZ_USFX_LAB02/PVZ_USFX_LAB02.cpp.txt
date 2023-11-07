@@ -1,0 +1,2 @@
+C:\Users\USUARIO\Desktop\SIS_457\PVZ_USFX_LAB02-Segundo_Parcial\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\Users\USUARIO\Desktop\SIS_457\PVZ_USFX_LAB02-Segundo_Parcial\Source\PVZ_USFX_LAB02\PVZ_USFX_LAB02.h

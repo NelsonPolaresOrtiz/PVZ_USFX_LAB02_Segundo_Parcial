@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\SIS_457\PVZ_USFX_LAB02-Segundo_Parcial\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02\Definitions.PVZ_USFX_LAB02.h
+C:\Users\USUARIO\Desktop\SIS_457\PVZ_USFX_LAB02-Segundo_Parcial\Source\PVZ_USFX_LAB02\ZombieSenal.h
+C:\Users\USUARIO\Desktop\SIS_457\PVZ_USFX_LAB02-Segundo_Parcial\Source\PVZ_USFX_LAB02\Zombie.h
+C:\Users\USUARIO\Desktop\SIS_457\PVZ_USFX_LAB02-Segundo_Parcial\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\Zombie.generated.h
+C:\Users\USUARIO\Desktop\SIS_457\PVZ_USFX_LAB02-Segundo_Parcial\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02\ZombieSenal.generated.h
